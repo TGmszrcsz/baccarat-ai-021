@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：概率解读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 020 篇 - 百家乐Ai预测分析工具：分组统计与总体统计为什么可能相反](https://github.com/TGmszrcsz/baccarat-ai-020) ｜ [下一篇：第 022 篇 - 百家乐Ai预测分析工具：三项分析数值的归一化检查](https://github.com/TGmszrcsz/baccarat-ai-022)
+
+<!-- article-chain:end -->
+
 页面数量计算出的占比与分析区域百分比不一致。本篇围绕“历史频率与模型输出需要两套解释”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、从具体场景进入问题
